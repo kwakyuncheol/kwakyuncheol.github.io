@@ -114,7 +114,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "노력하고 발전하는 개발자"
   location: "대한민국"
-  email: dbscjf2008@naver.com
+  email: "dbscjf2008@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -287,3 +287,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+      nav: "docs"
