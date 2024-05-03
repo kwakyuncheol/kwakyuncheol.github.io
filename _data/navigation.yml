@@ -13,6 +13,6 @@ main:
   docs: 
   - title: Category
   children:
-  - title: "JAVA"
+   - title: "JAVA"
       url: /categories/java
   
